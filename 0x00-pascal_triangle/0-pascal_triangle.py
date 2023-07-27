@@ -1,8 +1,6 @@
 #!/usr/bin/python3
-"""
-The intent of this script,is to wite a funtion that
-determine pascal's triangle for any number
-"""
+"""This is A script to determine pascal's triangle for any number"""
+
 
 def pascal_triangle(n):
     """
@@ -23,4 +21,4 @@ def pascal_triangle(n):
                 temp_list.append(triangle[i-1][j-1] + triangle[i-1][j])
         triangle.append(temp_list)
     # print(triangle)
-        return triangle
+    return triangle
