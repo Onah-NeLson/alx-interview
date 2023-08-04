@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-"""The intent of this script is to write a method that determines if all the boxes can be opened"""
+"""The intent of this script is to write a method that
+determines if all the boxes can be opened
+"""
 
 def canUnlockAll(boxes):
 
