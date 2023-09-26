@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-This script,contains a module with a function that returns the perimeter of an island
+HINT:a module with a function that returns the perimeter of an island
 described in grid
 """
 
