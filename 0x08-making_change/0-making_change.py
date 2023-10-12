@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-This script, determines the fewest number of coins needed to meet a given amount total.
+This script,determines the fewest number of coins needed to meet a given amount total.
 """
 
 
