@@ -1,8 +1,5 @@
 #!/usr/bin/python3
-"""prime Game
-"""
-
-
+"""prime Game"""
 
 def island_perimeter(grid: list) -> int:
     """ Island Perimeter
