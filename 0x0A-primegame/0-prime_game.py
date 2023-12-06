@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 """Prime game winner determination"""
 
-
 def isWinner(x, nums):
     """Prime game winner determination"""
     if x < 1 or not nums:
